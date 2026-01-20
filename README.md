@@ -1,2 +1,2 @@
 # Separate Linked Elements for Blender
-Separate linked elements and place them in a new collection.
+Adds Object menu > Separate Linked Elements that will separate linked elements and place them in a new collection.
